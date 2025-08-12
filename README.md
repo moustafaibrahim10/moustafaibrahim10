@@ -1,16 +1,5 @@
-Hi, I'm Mostafa Ibrahim — a passionate Mobile App Developer from Egypt 🇪🇬.
-I specialize in building apps using Flutter and Native Android (Kotlin/Java), with a strong interest in clean architecture, state management (Bloc/Cubit), and UI/UX best practices.
+I’m a passionate Flutter developer with experience building real-world apps using Clean Architecture and state management patterns like BLoC and Provider. I’ve worked independently and as part of teams, publishing apps to both Google Play and the App Store.
 
-🎓 I'm currently a 3rd-year student at Faculty of Computers and Information, majoring in Computer Science.
-👨‍💻 I build real-world mobile applications and love turning ideas into working products.
-🚀 I’m also the Flutter Lead at GDSC in my university, where I guide and mentor others on their Flutter journey.
-🎥 I create educational content on Dart & Flutter for Arabic learners on YouTube.
-🛠 Tools & tech I often use: Flutter, Kotlin, Java, Dart, Android Studio, VS Code, SQLite, Firebase.
+I’m currently part of the DEPI initiative, where I’m expanding my skills in Native Android development, while also learning UX design principles and AI fundamentals to better understand users and emerging technologies.
 
-📌 Goals:
-Work in top-tier companies and build scalable mobile solutions.
-
-Share knowledge through content and open-source.
-
-Stay updated with the latest in mobile development & design trends.
-
+My focus is always on writing clean, scalable code, solving problems efficiently, and collaborating with others to build meaningful, user-centered products. I'm excited to contribute to a team where I can grow and add real value.
