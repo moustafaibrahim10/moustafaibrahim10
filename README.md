@@ -1,206 +1,176 @@
 <h1 align="center">Hi 👋, I'm Moustafa Ibrahim</h1>
-<h3 align="center">Mobile Software Engineer | Flutter & Android (Jetpack Compose)</h3>
 
 <p align="center">
-  Building scalable mobile apps with clean architecture & modern UI.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Mobile+Software+Engineer;Flutter+Developer;Android+Jetpack+Compose+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" />
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=Moustafa%20Ibrahim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ---
 
 ## 🚀 About Me
 
-📱 Mobile Developer specializing in **Flutter & Native Android**
+📱 Mobile Software Engineer specialized in **Flutter & Native Android**
 
-🎓 Final Year Computer Science Student – Expected Graduation 2026  
+🎓 Final Year Computer Science Student – Graduation 2026  
 
-🏗 Passionate about building **scalable, maintainable mobile applications**
+👨‍💻 Developed & Published **6+ Mobile Applications**
 
-👨‍💻 Developed & published **6+ mobile applications**
-
-🧠 Strong experience in:
+🏗 Passionate about:
 - Clean Architecture
-- State Management (Bloc / Cubit / Provider)
-- Firebase & REST APIs
+- Scalable Apps
 - Performance Optimization
+- Modern UI/UX
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/moustafaibrahim10">
+<img src="https://img.shields.io/badge/LinkedIn-Moustafa%20Ibrahim-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:moustafaibrahim.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## ⚒ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma,sqlite,postman&perline=6" />
+
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
-### Flutter Developer — Meem Digital Transformation
-📍 Cairo | Jan 2025 – May 2025
+### 🚀 Flutter Developer — Meem Digital Transformation
+📍 Cairo | 2025
 
-- Built scalable Flutter apps using Clean Architecture
-- Published production app with **1000+ active users**
-- Reduced crash rate by **15%**
-- Integrated Firebase & REST APIs
-- Worked in Agile development cycles
-
----
-
-### Freelance Flutter Developer
-📍 Remote | 2024 – Present
-
-- Delivered full mobile apps from idea → store release
-- Improved user engagement by **20%**
-- Designed maintainable & reusable architecture
+✔ Built scalable production apps  
+✔ Reduced crash rate by 15%  
+✔ Published app with 1000+ users  
+✔ Firebase & REST API integration  
 
 ---
 
-## 🛠 Tech Stack
+### 🌍 Freelance Flutter Developer
+📍 Remote
 
-### 📱 Mobile Development
-- Flutter
-- Dart
-- Android Native
-- Kotlin
-- Jetpack Compose
-
-### 🧩 Architecture & Patterns
-- Clean Architecture
-- MVVM
-- SOLID Principles
-- Repository Pattern
-- Dependency Injection (GetIt)
-
-### ⚙ State Management
-- Bloc
-- Cubit
-- Provider
-
-### ☁ Backend & Services
-- Firebase Auth
-- Firestore
-- FCM Notifications
-- REST APIs
-
-### 💾 Databases
-- SQLite
-- Hive
-- SharedPreferences
-
-### 🧪 Tools
-- Git & GitHub
-- Android Studio
-- VS Code
-- Postman
-- Figma Collaboration
+✔ Delivered full mobile apps from idea to store  
+✔ Increased engagement by 20%  
+✔ Designed maintainable architectures  
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🌍 Lamma App — Social Media Platform
-Flutter • Firebase • Cubit
-
-- Real-time posts & chat
-- Google Maps integration
-- Full Firebase backend
-- Authentication & profiles
+### 🌍 Lamma – Social Media App
+- Real-time Chat & Posts
+- Google Maps Integration
+- Full Firebase Backend
 
 ---
 
-### 🕋 Monfaz Umrah Hedia App
-Flutter • Firebase • Provider  
-📱 Live on Google Play & App Store
-
-- Real-time Umrah gift requests system
-- Dynamic forms & push notifications
-- Achieved 1000+ downloads
-- Increased DAU by 25%
+### 🕋 Monfaz Umrah Hedia
+- Live Production App
+- 1000+ Downloads
+- Push Notifications
+- Dynamic Forms
 
 ---
 
-### 🛒 Bazzario & A3shabi — E-Commerce Apps
-Flutter • Cubit
-
-- Product browsing & searching
-- Ordering & notifications
-- In-app messaging
-- Performance optimized UI
+### 🛒 E-Commerce Apps
+- Product Browsing
+- Notifications
+- In-app Messaging
+- Performance Optimization
 
 ---
 
 ### 🎬 Movies App
-Flutter • Clean Architecture • Bloc
-
-Features:
-- Now Playing
-- Top Rated
-- Recommendations
+- Clean Architecture
+- Bloc State Management
 - Dependency Injection
-- Reusable UI Components
+- Recommendations System
 
 ---
 
-### 📰 News App
-Flutter • Cubit • NewsAPI
+## 🏆 GitHub Achievements
 
-- Multi-category news browsing
-- Search functionality
-- Dark / Light Mode
-- Caching & error handling
-
----
-
-### ✅ To-Do App
-Flutter • SQLite • Cubit
-
-- Task management system
-- Archive & completion tracking
-- Local database storage
-
----
-
-## 📚 Certifications & Training
-
-- Flutter Clean Architecture — Udemy
-- Android Development Track — DEPI
-- Flutter Summer Training — ITI
-- Career Development — NTI
-- UX Design Fundamentals — ITI
-- ALX AI Career Essentials
-
----
-
-## 👑 Leadership & Community
-
-### President — DSC El Shorouk Academy
-2025 – Present
-
-- Managing technical tracks & events
-- Mentoring students in mobile development
-
----
-
-### Flutter Head & Instructor — DSC
-- Mentored 30+ students
-- Delivered Flutter workshops
-
----
-
-### C++ Instructor — F12 Community
-- Taught OOP & programming fundamentals
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=moustafaibrahim10&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
 
-📧 Email: moustafaibrahim.dev@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/moustafaibrahim10  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moustafaibrahim10&theme=tokyo-night"/>
+</p>
 
 ---
 
-⭐ Always Learning • Always Building • Always Improving
+## 💡 Development Philosophy
+
+> Clean code is not written by following rules…  
+> It's written by developers who care about maintainability.
+
+---
+
+## 👑 Leadership & Community
+
+### President — DSC El Shorouk Academy
+✔ Managing technical tracks  
+✔ Organizing tech events  
+✔ Mentoring developers  
+
+---
+
+### Flutter Instructor
+✔ Mentored 30+ students  
+✔ Delivered workshops & training  
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=moustafaibrahim10&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/moustafaibrahim10/moustafaibrahim10/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
+
