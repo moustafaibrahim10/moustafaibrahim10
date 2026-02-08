@@ -108,15 +108,14 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moustafaibrahim10&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=moustafaibrahim10&theme=tokyonight&no-frame=true&row=2&column=3"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
