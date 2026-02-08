@@ -1,7 +1,8 @@
 name: GitHub Snake
 
 on:
-  workflow_dispatch:  # تشغيل يدوي لأول مرة
+  workflow_dispatch:
+    # تشغيل يدوي لأول مرة
   schedule:
     - cron: '0 0 * * *'  # تحديث يومي UTC
 
@@ -11,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate GitHub Snake
-        uses: Ileriayo/github-contribution-grid-snake@v2
+        uses: nikolas/github-contribution-snake-action@v1
         with:
           username: moustafaibrahim10
           output: ./output/github-contribution-grid-snake.svg
