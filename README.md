@@ -153,11 +153,14 @@
 ---
 
 ## 👀 Profile Visitors
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=moustafaibrahim10&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/moustafaibrahim10">moustafaibrahim10</a></i>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
