@@ -6,8 +6,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=Moustafa%20Ibrahim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+<img src="https://raw.githubusercontent.com/moustafaibrahim10/moustafaibrahim10/main/dist/github-contribution-grid-snake.svg"/>
 ---
 
 ## 🚀 About Me
