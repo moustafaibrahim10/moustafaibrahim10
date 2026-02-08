@@ -2,24 +2,26 @@ name: GitHub Snake
 
 on:
   workflow_dispatch:
-    # تشغيل يدوي لأول مرة
   schedule:
-    - cron: '0 0 * * *'  # تحديث يومي UTC
+    - cron: "0 0 * * *"  # Runs at 00:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - name: Generate GitHub Snake
-        uses: nikolas/github-contribution-snake-action@v1
+        uses: Platane/snk@v3
         with:
-          username: moustafaibrahim10
-          output: ./output/github-contribution-grid-snake.svg
-      - name: Commit Snake SVG
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add ./output/github-contribution-grid-snake.svg
-          git commit -m "Update Snake contribution graph" || echo "No changes to commit"
-          git push
+          github_user_name: moustafaibrahim10
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - name: Push to GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
