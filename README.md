@@ -102,13 +102,11 @@
 - Recommendations System
 
 ---
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moustafaibrahim10&theme=radical&no-frame=false&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=moustafaibrahim10&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
