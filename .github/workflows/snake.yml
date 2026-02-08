@@ -3,7 +3,10 @@ name: GitHub Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Runs at 00:00 UTC
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -19,9 +22,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       
-      - name: Push to GitHub
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dist/
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
