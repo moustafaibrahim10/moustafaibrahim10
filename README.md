@@ -108,7 +108,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moustafaibrahim10&theme=tokyonight&no-frame=true&row=2&column=3"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
