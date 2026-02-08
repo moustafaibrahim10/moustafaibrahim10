@@ -160,9 +160,7 @@
 ---
 
 <p align="center">
-  <b>Let's Connect!</b><br>
-  <a href="https://linkedin.com/in/moustafaibrahim10">LinkedIn</a> •
-  <a href="mailto:moustafaibrahim.dev@gmail.com">Email</a>
+  💬 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 ---
