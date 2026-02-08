@@ -1,7 +1,7 @@
 name: GitHub Snake
 
 on:
-  workflow_dispatch:  # تشغيل يدوي لأول مرة
+  workflow_dispatch: 
   schedule:
     - cron: '0 0 * * *'  # تحديث يومي UTC
 
