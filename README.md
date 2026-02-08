@@ -4,7 +4,25 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Mobile+Software+Engineer;Flutter+Developer;Android+Jetpack+Compose+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" />
 </p>
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=Moustafa%20Ibrahim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+---
+
+## 🚀 About Me
+
+📱 Mobile Software Engineer specialized in **Flutter & Native Android**
+
+🎓 Final Year Computer Science Student – Graduation 2026  
+
+👨‍💻 Developed & Published **6+ Mobile Applications**
+
+🏗 Passionate about:
+- Clean Architecture
+- Scalable Apps
+- Performance Optimization
+- Modern UI/UX
 
 ---
 
@@ -34,11 +52,57 @@
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Professional Experience
 
-- Flutter Developer — Meem Digital Transformation (2025)  
-- Freelance Flutter Developer (2024 – Present)  
-- Featured Projects: Lamma App, Monfaz Umrah Hedia, Bazzario & A3shabi, Movies App, News App, To-Do App
+### 🚀 Flutter Developer — Meem Digital Transformation
+📍 Cairo | 2025
+
+✔ Built scalable production apps  
+✔ Reduced crash rate by 15%  
+✔ Published app with 1000+ users  
+✔ Firebase & REST API integration  
+
+---
+
+### 🌍 Freelance Flutter Developer
+📍 Remote
+
+✔ Delivered full mobile apps from idea to store  
+✔ Increased engagement by 20%  
+✔ Designed maintainable architectures  
+
+---
+
+## ⭐ Featured Projects
+
+### 🌍 Lamma – Social Media App
+- Real-time Chat & Posts
+- Google Maps Integration
+- Full Firebase Backend
+
+---
+
+### 🕋 Monfaz Umrah Hedia
+- Live Production App
+- 1000+ Downloads
+- Push Notifications
+- Dynamic Forms
+
+---
+
+### 🛒 E-Commerce Apps
+- Product Browsing
+- Notifications
+- In-app Messaging
+- Performance Optimization
+
+---
+
+### 🎬 Movies App
+- Clean Architecture
+- Bloc State Management
+- Dependency Injection
+- Recommendations System
 
 ---
 
@@ -62,18 +126,33 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/moustafaibrahim10/moustafaibrahim10/main/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moustafaibrahim10&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 💡 Philosophy
+## 💡 Development Philosophy
 
 > Clean code is not written by following rules…  
 > It's written by developers who care about maintainability.
+
+---
+
+## 👑 Leadership & Community
+
+### President — DSC El Shorouk Academy
+✔ Managing technical tracks  
+✔ Organizing tech events  
+✔ Mentoring developers  
+
+---
+
+### Flutter Instructor
+✔ Mentored 30+ students  
+✔ Delivered workshops & training  
 
 ---
 
@@ -85,4 +164,13 @@
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/moustafaibrahim10/moustafaibrahim10/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
+
