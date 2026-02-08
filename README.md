@@ -160,7 +160,9 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/moustafaibrahim10">moustafaibrahim10</a></i>
+  💬 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
