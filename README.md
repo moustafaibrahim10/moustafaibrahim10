@@ -108,22 +108,23 @@
 <img src="https://github-trophies.vercel.app/?username=moustafaibrahim10&theme=darkhub&no-frame=true&row=1"/>
 </p>
 ---
+---
 
 ## 📊 GitHub Analysis
 
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img  src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="50%" border="0">
+        <img src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight&hide_border=true" />
+      <td align="center" width="50%" border="0">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
       </td>
     </tr>
-    <tr border="none">
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight&hide_border=true" />
+    <tr>
+      <td colspan="2" align="center" border="0">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -134,9 +135,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moustafaibrahim10&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moustafaibrahim10&theme=tokyonight&area=true&hide_border=true"/>
 </p>
 
+---
 ---
 
 ## 💡 Development Philosophy
