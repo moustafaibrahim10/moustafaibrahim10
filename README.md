@@ -109,15 +109,24 @@
 </p>
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analysis
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight&hide_border=true"/>
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img  src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+    <tr border="none">
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
