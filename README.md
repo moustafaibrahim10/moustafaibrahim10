@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Moustafa Ibrahim</h1>
+# Hi 👋, I'm Mostafa Ibrahim
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Mobile+Software+Engineer;Flutter+Developer;Android+Jetpack+Compose+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Building+Production+Ready+Mobile+Apps;Clean+Architecture+%7C+BLoC+%7C+Firebase;Google+Play+%26+App+Store+Publisher;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -12,166 +12,339 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-📱 Mobile Software Engineer specialized in **Flutter & Native Android**
+📱 Flutter Developer with **2+ years of experience** building scalable cross-platform mobile applications using Flutter & Dart.
 
-🎓 Final Year Computer Science Student – Graduation 2026  
+🚀 Developed **6+ production-ready applications**, with multiple apps successfully published on **Google Play Store** and **Apple App Store**.
 
-👨‍💻 Developed & Published **6+ Mobile Applications**
+🏗 Experienced in designing maintainable applications using **Clean Architecture**, **MVVM**, and modern state management solutions.
 
-🏗 Passionate about:
-- Clean Architecture
-- Scalable Apps
-- Performance Optimization
-- Modern UI/UX
+💡 Passionate about:
+
+* Flutter
+* Native Android
+* Clean Architecture
+* Performance Optimization
+* AI-powered Mobile Applications
+* Scalable Software Design
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/moustafaibrahim10">
-<img src="https://img.shields.io/badge/LinkedIn-Moustafa%20Ibrahim-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Ibrahim-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:moustafaibrahim.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
-## ⚒ Tech Stack
+# ⚒ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma,sqlite,postman&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,supabase,sqlite,git,github,figma,postman,vscode&perline=7"/>
+
 </p>
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### 🚀 Flutter Developer — Meem Digital Transformation
-📍 Cairo | 2025
+## 🚀 Flutter Developer — TechOrg
 
-✔ Built scalable production apps  
-✔ Reduced crash rate by 15%  
-✔ Published app with 1000+ users  
-✔ Firebase & REST API integration  
+**Saudi Arabia • Remote**
 
----
-
-### 🌍 Freelance Flutter Developer
-📍 Remote
-
-✔ Delivered full mobile apps from idea to store  
-✔ Increased engagement by 20%  
-✔ Designed maintainable architectures  
+* Developed scalable production-ready Flutter applications.
+* Managed the development lifecycle across multiple projects.
+* Built maintainable solutions using Clean Architecture.
+* Collaborated with backend developers and designers.
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Flutter Developer — Meem Digital Transformation
 
-### 🌍 Lamma – Social Media App
-- Real-time Chat & Posts
-- Google Maps Integration
-- Full Firebase Backend
+**Cairo, Egypt**
 
----
-
-### 🕋 Monfaz Umrah Hedia
-- Live Production App
-- 1000+ Downloads
-- Push Notifications
-- Dynamic Forms
+* Built **3** scalable Flutter applications.
+* Published production applications on Google Play Store.
+* Reduced application crash rate by **15%**.
+* Integrated REST APIs & Firebase services.
+* Improved application performance and user experience.
 
 ---
 
-### 🛒 E-Commerce Apps
-- Product Browsing
-- Notifications
-- In-app Messaging
-- Performance Optimization
+## 🌍 Freelance Flutter Developer
+
+**Remote**
+
+* Delivered production-ready Flutter applications from idea to deployment.
+* Published applications on Google Play & Apple App Store.
+* Built scalable and maintainable mobile architectures.
+* Worked directly with clients and transformed business ideas into real products.
 
 ---
 
-### 🎬 Movies App
-- Clean Architecture
-- Bloc State Management
-- Dependency Injection
-- Recommendations System
+# ⭐ Featured Projects
+
+## 🚖 ZonaX — Smart Fleet Intelligence System
+
+AI-powered fleet optimization platform.
+
+### Highlights
+
+* Predictive Analytics
+* Dynamic Heatmaps
+* Offline First Architecture
+* Voice Assistant (STT/TTS)
+* Explainable AI
+* Driver Analytics
+* Automated Fare Calculation
 
 ---
-## 🏆 GitHub Achievements
+
+## 🚗 Yub Steam
+
+On-demand Car Wash Platform.
+
+### Highlights
+
+* Client & Worker Applications
+* Shared Mono Repo
+* Google Maps
+* Firebase Authentication
+* OTP Verification
+* Push Notifications
+* Booking Management
+* Before & After Uploads
+
+---
+
+## 📂 Saveli
+
+Smart Document Management Platform.
+
+### Highlights
+
+* Document Scanner
+* Smart Reminders
+* Nested Folder Structure
+* Advanced Search
+* Authentication
+* Google Sign-In
+* OTP Verification
+* BLoC Architecture
+* RTL/LTR Support
+
+---
+
+## 🚕
+
+CAXI
+
+Ride Sharing Application.
+
+### Highlights
+
+* Real-time Driver Matching
+* Live Trip Tracking
+* Firebase
+* Push Notifications
+* Real-time Communication
+
+---
+
+## 🕋 Monfaz Umrah Hedia
+
+Production Mobile Application.
+
+### Highlights
+
+* Google Play Store
+* Apple App Store
+* 1000+ Downloads
+* Firebase
+* Push Notifications
+* Dynamic Forms
+
+---
+
+# ⚡ Core Skills
+
+### Languages
+
+* Dart
+* Java
+* Kotlin
+* C++
+* C#
+* Python
+* SQL
+
+### Mobile
+
+* Flutter
+* Native Android
+
+### State Management
+
+* BLoC
+* Cubit
+* Provider
+
+### Backend & Cloud
+
+* Firebase
+* REST APIs
+* Supabase
+
+### Databases
+
+* SQLite
+* Hive
+* SharedPreferences
+* Firestore
+
+### Architecture
+
+* Clean Architecture
+* MVVM
+* SOLID
+* OOP
+* Modular Design
+
+### Development
+
+* Git
+* Git Flow
+* SDLC
+* Code Review
+* Performance Optimization
+* Debugging
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
+
 <img src="https://github-trophies.vercel.app/?username=moustafaibrahim10&theme=darkhub&no-frame=true&row=1"/>
-</p>
----
----
 
-## 📊 GitHub Analysis
-
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" width="50%" border="0">
-        <img src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" />
-      </td>
-      <td align="center" width="50%" border="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" border="0">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moustafaibrahim10&theme=tokyonight&area=true&hide_border=true"/>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moustafaibrahim10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaibrahim10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafaibrahim10&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
 </p>
 
 ---
----
 
-## 💡 Development Philosophy
+# 📈 Contribution Graph
 
-> Clean code is not written by following rules…  
-> It's written by developers who care about maintainability.
-
----
-
-## 👑 Leadership & Community
-
-### President — DSC El Shorouk Academy
-✔ Managing technical tracks  
-✔ Organizing tech events  
-✔ Mentoring developers  
-
----
-
-### Flutter Instructor
-✔ Mentored 30+ students  
-✔ Delivered workshops & training  
-
----
-
-## 👀 Profile Visitors
 <p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moustafaibrahim10&theme=tokyonight&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 👑 Leadership & Community
+
+## President — Novera E-Club
+
+* Leading the technical community.
+* Organizing technical events.
+* Managing technical tracks.
+* Mentoring student leaders.
+
+---
+
+## Flutter Head & Instructor
+
+* Mentored **30+ Flutter Developers**.
+* Delivered Flutter workshops.
+* Conducted practical coding sessions.
+* Reviewed students' projects.
+
+---
+
+## C++ Instructor
+
+* Taught OOP fundamentals.
+* Helped students build practical projects.
+* Improved students' programming skills.
+
+---
+
+# 🎯 Currently Focusing On
+
+* Building scalable Flutter applications
+* Native Android Development
+* System Design
+* Software Architecture
+* AI-powered Mobile Applications
+* Performance Optimization
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=moustafaibrahim10&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
 
 <p align="center">
-  💬 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+<b>— John Johnson</b>
+
 </p>
 
 ---
